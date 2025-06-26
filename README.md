@@ -87,7 +87,9 @@
 - 💬 Telegram: [@altynbekov_17](https://t.me/altynbekov_17)
 
 ---
+![GitHub Snake](https://Isabek96.github.io/Isabek96/github-contribution-grid-snake.svg)
 
+---
 <p align="center">
   🔍 <i>Спасибо, что заглянули! Подписывайтесь, смотрите проекты, пишите — всегда рад новым контактам.</i>
 </p>
