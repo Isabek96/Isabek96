@@ -50,7 +50,6 @@
   <img src="https://img.shields.io/badge/-NumPy-333?style=for-the-badge&logo=numpy" />
   <img src="https://img.shields.io/badge/-Matplotlib-333?style=for-the-badge&logo=matplotlib" />
   <img src="https://img.shields.io/badge/-Seaborn-333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Plotly-333?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-PowerBI-333?style=for-the-badge&logo=powerbi" />
 </p>
 
