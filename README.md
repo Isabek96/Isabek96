@@ -73,7 +73,7 @@
 ---
 ### 🐍 Моя активность в виде игры
 
-![GitHub Snake](https://github.com/Isabek96/Isabek96/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/Isabek96/Isabek96/blob/output/github-snake.svg)
 
 ---
 ### 📈 GitHub Stats
