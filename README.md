@@ -14,6 +14,10 @@
   <a href="https://t.me/altynbekov_17">
     <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram" />
   </a>
+  <!-- Добавляем бейдж Codewars -->
+  <a href="https://www.codewars.com/users/Issabek" target="_blank">
+    <img src="https://www.codewars.com/users/Issabek/badges/large" alt="Codewars Badge" />
+  </a>
 </p>
 
 ---
