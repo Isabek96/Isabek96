@@ -1,7 +1,7 @@
-<h1 align="center">Привет! Меня зовут Исабек 👋</h1>
+<h1 align="center">Привет, я Исабек 👋</h1>
 
 <p align="center">
-  <b>Machine Learning Engineer</b> | <i>Deep Learning, Computer Vision, PyTorch</i>
+  <b>Machine Learning Engineer</b> | <i>Deep Learning & Computer Vision Enthusiast</i>  
 </p>
 
 <p align="center">
@@ -11,75 +11,63 @@
   <a href="mailto:kz_mail_xx@mail.ru">
     <img src="https://img.shields.io/badge/Email-grey?style=flat&logo=gmail" />
   </a>
+  <a href="https://t.me/altynbekov_17">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram" />
+  </a>
 </p>
 
 ---
 
 ### 🧠 Обо мне
 
-Разрабатываю модели глубокого обучения, особенно в области **компьютерного зрения**.
-
-✔️ Уверенно работаю с **PyTorch**:
-- настраиваю `DataLoader`,  
-- провожу **аугментации изображений** (`albumentations`),  
-- реализую архитектуры `CNN`, `ResNet`, `EfficientNet`.
-
-✔️ Использую **методы классического ML**:
-- предобработка данных, отбор признаков,  
-- настройка моделей с `GridSearchCV`, `Lasso`, `Ridge`,  
-- оценка результатов и метрик.
-
-Знаю полный цикл **ML-проекта**: от сбора и очистки данных до деплоя модели.
+Привет! Я Исабек — инженер машинного обучения. Увлекаюсь **глубоким обучением**, особенно в сфере **компьютерного зрения**, и уверен в классических ML-подходах.  
+Люблю проекты, где можно пройти весь путь: от сбора и анализа данных до обучения и внедрения модели в продакшн.
 
 ---
 
-### 🛠️ Стек технологий
+### 🚀 Технологии и инструменты
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)
-
----
-
-### 🚀 Проекты
-
-> 📌 *Примеры проектов — вставь свои ссылки, если они ещё не добавлены*
-
-- 🧠 [EfficientNet для классификации изображений](https://github.com/Isabek96/efficientnet-image-classification)  
-  PyTorch + Albumentations, обучение и оценка модели на пользовательских изображениях
-
-- 📊 [ML pipeline на Scikit-learn](https://github.com/Isabek96/sklearn-classification)  
-  Полный процесс от загрузки данных до GridSearch и метрик ROC AUC
-
-- 📈 [Pandas-анализ пользовательского поведения](https://github.com/Isabek96/data-analysis-pandas)  
-  Визуализация и разбор событий сайта: сессии, устройства, страны
+<p>
+  <img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/-PyTorch-333?style=for-the-badge&logo=pytorch&logoColor=ee4c2c" />
+  <img src="https://img.shields.io/badge/-Pandas-333?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/-NumPy-333?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-scikit--learn-333?style=for-the-badge&logo=scikit-learn&logoColor=f7931e" />
+  <img src="https://img.shields.io/badge/-Matplotlib-333?style=for-the-badge&logo=matplotlib" />
+  <img src="https://img.shields.io/badge/-Jupyter-333?style=for-the-badge&logo=jupyter&logoColor=orange" />
+</p>
 
 ---
 
-### 📈 GitHub Статистика
+### 📌 Проекты
+
+| Название проекта | Описание | Технологии |
+|------------------|----------|------------|
+| 🏠 [Boston Housing](https://github.com/Isabek96/Boston-Housing) | Линейная регрессия для предсказания стоимости жилья в Бостоне | `Python`, `Pandas`, `scikit-learn`, `Matplotlib` |
+| 👥 [Customer Personality Analysis](https://github.com/Isabek96/Customer-Personality-Analysis) | EDA и кластеризация клиентов на основе покупательского поведения | `Python`, `EDA`, `KMeans`, `Seaborn` |
+| 🏢 [Real Estate Prices in Tashkent](https://github.com/Isabek96/Real-estate-prices-in-Tashkent-Uzbekistan) | Анализ и визуализация цен на недвижимость в Ташкенте | `Pandas`, `Matplotlib`, `Seaborn` |
+| 📚 [Student Performance: Multiple Regression](https://github.com/Isabek96/Student-Performance-Multiple-Linear-Regression-) | Модель прогнозирования успеваемости студентов по нескольким признакам | `Regression`, `scikit-learn`, `EDA` |
+
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isabek96&show_icons=true&theme=github_dark&hide=contribs)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabek96&layout=compact&theme=github_dark)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Isabek96&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabek96&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-### 📬 Связь
+### 📬 Контакты
 
 - 📧 Email: [kz_mail_xx@mail.ru](mailto:kz_mail_xx@mail.ru)  
-- 💼 LinkedIn: [linkedin.com/in/isabek-altynbek-053729271](https://www.linkedin.com/in/isabek-altynbek-053729271/)
+- 💼 LinkedIn: [Isabek Altynbek](https://www.linkedin.com/in/isabek-altynbek-053729271/)  
+- 💬 Telegram: [@altynbekov_17](https://t.me/altynbekov_17)
 
 ---
 
 <p align="center">
-  🔍 <i>Спасибо, что посетили мой профиль!</i>
+  🔍 <i>Спасибо, что заглянули! Подписывайтесь, смотрите проекты, пишите — всегда рад новым контактам.</i>
 </p>
