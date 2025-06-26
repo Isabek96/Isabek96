@@ -71,7 +71,11 @@
 | 📚 [Student Performance: Multiple Regression](https://github.com/Isabek96/Student-Performance-Multiple-Linear-Regression-) | Модель прогнозирования успеваемости студентов по нескольким признакам | `Regression`, `scikit-learn`, `EDA` |
 
 ---
+### 🐍 Моя активность в виде игры
 
+![GitHub Snake](https://github.com/Isabek96/Isabek96/blob/output/github-contribution-grid-snake.svg)
+
+---
 ### 📈 GitHub Stats
 
 <div align="center">
