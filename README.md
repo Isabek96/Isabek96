@@ -27,14 +27,36 @@
 
 ### 🚀 Технологии и инструменты
 
+#### 🤖 Machine Learning / Deep Learning
 <p>
   <img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python&logoColor=yellow" />
   <img src="https://img.shields.io/badge/-PyTorch-333?style=for-the-badge&logo=pytorch&logoColor=ee4c2c" />
-  <img src="https://img.shields.io/badge/-Pandas-333?style=for-the-badge&logo=pandas" />
-  <img src="https://img.shields.io/badge/-NumPy-333?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/-scikit--learn-333?style=for-the-badge&logo=scikit-learn&logoColor=f7931e" />
+  <img src="https://img.shields.io/badge/-XGBoost-333?style=for-the-badge&logo=xgboost" />
+  <img src="https://img.shields.io/badge/-LightGBM-333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-CatBoost-333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Albumentations-333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-OpenCV-333?style=for-the-badge&logo=opencv" />
+</p>
+
+#### 📊 Data Analysis & Visualization
+<p>
+  <img src="https://img.shields.io/badge/-Pandas-333?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/-NumPy-333?style=for-the-badge&logo=numpy" />
   <img src="https://img.shields.io/badge/-Matplotlib-333?style=for-the-badge&logo=matplotlib" />
+  <img src="https://img.shields.io/badge/-Seaborn-333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Plotly-333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-PowerBI-333?style=for-the-badge&logo=powerbi" />
+</p>
+
+#### ⚙️ Dev & Deployment
+<p>
   <img src="https://img.shields.io/badge/-Jupyter-333?style=for-the-badge&logo=jupyter&logoColor=orange" />
+  <img src="https://img.shields.io/badge/-FastAPI-333?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/-Airflow-333?style=for-the-badge&logo=apache-airflow" />
+  <img src="https://img.shields.io/badge/-TensorBoard-333?style=for-the-badge&logo=tensorflow&logoColor=orange" />
 </p>
 
 ---
