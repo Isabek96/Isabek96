@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Исабек 👋</h1>
+<h1 align="center">Hi there, I'm Isabek 👋</h1>
 
 <p align="center">
   <b>Machine Learning Engineer</b> | <i>Deep Learning & Computer Vision Enthusiast</i>  
@@ -14,7 +14,6 @@
   <a href="https://t.me/altynbekov_17">
     <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram" />
   </a>
-  <!-- Добавляем бейдж Codewars -->
   <br>
   <a href="https://www.codewars.com/users/Issabek" target="_blank">
     <img src="https://www.codewars.com/users/Issabek/badges/large" alt="Codewars Badge" />
@@ -23,14 +22,15 @@
 
 ---
 
-### 🧠 Обо мне
+### 🧠 About Me
 
-Привет! Я Исабек — инженер машинного обучения. Увлекаюсь **глубоким обучением**, особенно в сфере **компьютерного зрения**, и уверен в классических ML-подходах.  
-Люблю проекты, где можно пройти весь путь: от сбора и анализа данных до обучения и внедрения модели в продакшн.
+Hi! I’m **Isabek**, a Machine Learning Engineer passionate about **Deep Learning** and **Computer Vision**.  
+I enjoy working on projects that cover the full cycle — from **data collection and analysis** to **model training and production deployment**.  
+I’m confident with both **classical ML approaches** and **modern neural architectures**.
 
 ---
 
-### 🚀 Технологии и инструменты
+### 🚀 Technologies & Tools
 
 #### 🤖 Machine Learning / Deep Learning
 <p>
@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/-PowerBI-333?style=for-the-badge&logo=powerbi" />
 </p>
 
-#### ⚙️ Dev & Deployment
+#### ⚙️ Development & Deployment
 <p>
   <img src="https://img.shields.io/badge/-Jupyter-333?style=for-the-badge&logo=jupyter&logoColor=orange" />
   <img src="https://img.shields.io/badge/-FastAPI-333?style=for-the-badge&logo=fastapi" />
@@ -65,16 +65,17 @@
 
 ---
 
-### 📌 Проекты
+### 📌 Projects
 
-| Название проекта | Описание | Технологии |
-|------------------|----------|------------|
-| 🏠 [Boston Housing](https://github.com/Isabek96/Boston-Housing) | Линейная регрессия для предсказания стоимости жилья в Бостоне | `Python`, `Pandas`, `scikit-learn`, `Matplotlib` |
-| 👥 [Customer Personality Analysis](https://github.com/Isabek96/Customer-Personality-Analysis) | EDA и кластеризация клиентов на основе покупательского поведения | `Python`, `EDA`, `KMeans`, `Seaborn` |
-| 🏢 [Real Estate Prices in Tashkent](https://github.com/Isabek96/Real-estate-prices-in-Tashkent-Uzbekistan) | Анализ и визуализация цен на недвижимость в Ташкенте | `Pandas`, `Matplotlib`, `Seaborn` |
-| 📚 [Student Performance: Multiple Regression](https://github.com/Isabek96/Student-Performance-Multiple-Linear-Regression-) | Модель прогнозирования успеваемости студентов по нескольким признакам | `Regression`, `scikit-learn`, `EDA` |
+| Project Name | Description | Technologies |
+|---------------|-------------|---------------|
+| 🏠 [Boston Housing](https://github.com/Isabek96/Boston-Housing) | Linear regression model for predicting housing prices in Boston | `Python`, `Pandas`, `scikit-learn`, `Matplotlib` |
+| 👥 [Customer Personality Analysis](https://github.com/Isabek96/Customer-Personality-Analysis) | EDA and customer clustering based on purchasing behavior | `Python`, `EDA`, `KMeans`, `Seaborn` |
+| 🏢 [Real Estate Prices in Tashkent](https://github.com/Isabek96/Real-estate-prices-in-Tashkent-Uzbekistan) | Analysis and visualization of real estate prices in Tashkent | `Pandas`, `Matplotlib`, `Seaborn` |
+| 📚 [Student Performance: Multiple Regression](https://github.com/Isabek96/Student-Performance-Multiple-Linear-Regression-) | Prediction of student performance using multiple regression | `Regression`, `scikit-learn`, `EDA` |
 
 ---
+
 ### 📈 GitHub Stats
 
 <div align="center">
@@ -84,13 +85,14 @@
 
 ---
 
-### 📬 Контакты
+### 📬 Contacts
 
 - 📧 Email: [kz_mail_xx@mail.ru](mailto:kz_mail_xx@mail.ru)  
 - 💼 LinkedIn: [Isabek Altynbek](https://www.linkedin.com/in/isabek-altynbek-053729271/)  
 - 💬 Telegram: [@altynbekov_17](https://t.me/altynbekov_17)
 
 ---
+
 <p align="center">
-  🔍 <i>Спасибо, что заглянули! Подписывайтесь, смотрите проекты, пишите — всегда рад новым контактам.</i>
+  🔍 <i>Thanks for visiting! Feel free to explore my projects, connect, or drop a message — I’m always open to collaboration and new opportunities.</i>
 </p>
