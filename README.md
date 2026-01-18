@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Isabek 👋</h1>
+<h1 align="center">Hi there, I'm Isabek </h1>
 
 <p align="center">
   <b>Computer Vision Engineer</b> | <i>Deep Learning · LLM-integrated AI Systems</i>  
