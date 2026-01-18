@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Isabek </h1>
 
 <p align="center">
-  <b>Computer Vision Engineer</b> | <i>Deep Learning · LLM-integrated AI Systems</i>  
+  <b>Computer Vision Engineer</b> | <i>Deep Learning · LLM-integrated AI Systems · MLOps</i>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
   <a href="mailto:kz_mail_xx@mail.ru">
     <img src="https://img.shields.io/badge/Email-grey?style=flat&logo=gmail" />
   </a>
-  <a href="https://t.me/altynbekov_17">
+  <a href="https://t.me/kolesnokov__dima">
     <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram" />
   </a>
   <br>
@@ -22,76 +22,85 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-Hi! I’m **Isabek**, a **Computer Vision Engineer** working on  
-**production-oriented AI systems that combine vision, deep learning, and LLM-based reasoning**.
+I’m **Isabek**, a **Computer Vision Engineer** focused on building  
+**production-ready AI systems** that combine **computer vision, deep learning, and LLM-based reasoning**.
 
-I design **end-to-end AI pipelines**:
-- dataset preparation and annotation workflows  
+I work across the full ML lifecycle:
+- data preparation, annotation workflows, and dataset curation  
 - training and optimization of CV models  
-- integration of **LLMs for decision-making, orchestration, and automation**  
-- deployment as scalable services  
+- integration of **LLMs for orchestration, reasoning, and automation**  
+- deployment and monitoring of scalable AI services  
 
-My focus is on **applied AI**, where models are part of a larger system rather than standalone research.
-
----
-
-## 🚀 Core Skills
-
-### 🤖 Computer Vision & Deep Learning
-<p>
-  <img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/-PyTorch-333?style=for-the-badge&logo=pytorch&logoColor=ee4c2c" />
-  <img src="https://img.shields.io/badge/-YOLO-333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-OpenCV-333?style=for-the-badge&logo=opencv" />
-  <img src="https://img.shields.io/badge/-Albumentations-333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Detection%20%2F%20Segmentation-333?style=for-the-badge" />
-</p>
-
-### 🧠 LLM & AI Reasoning
-<p>
-  <img src="https://img.shields.io/badge/-Large%20Language%20Models-333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-LLM%20Integration-333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Function%20Calling-333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-AI%20Agents-333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Vision--Language%20Pipelines-333?style=for-the-badge" />
-</p>
-
-### ⚙️ Backend, Data & Deployment
-<p>
-  <img src="https://img.shields.io/badge/-FastAPI-333?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/-REST%20%2F%20gRPC-333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/-CVAT-333?style=for-the-badge" />
-</p>
+My primary interest lies in **applied AI**, where models operate as part of reliable, real-world systems.
 
 ---
 
-## 📌 Selected Projects
+## Core Skills
+
+### Computer Vision & Deep Learning
+<p>
+  <img src="https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/PyTorch-333?style=for-the-badge&logo=pytorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-333?style=for-the-badge&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/OpenCV-333?style=for-the-badge&logo=opencv"/>
+  <img src="https://img.shields.io/badge/Ultralytics%20YOLO-333?style=for-the-badge"/>
+</p>
+
+### LLM & AI Pipelines
+<p>
+  <img src="https://img.shields.io/badge/LangChain-333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLM%20Integration-333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Function%20Calling-333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vision--Language%20Pipelines-333?style=for-the-badge"/>
+</p>
+
+### Backend, MLOps & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-333?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Streamlit-333?style=for-the-badge&logo=streamlit"/>
+  <img src="https://img.shields.io/badge/Docker-333?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/Git-333?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-333?style=for-the-badge&logo=apache-airflow"/>
+  <img src="https://img.shields.io/badge/Grafana-333?style=for-the-badge&logo=grafana"/>
+  <img src="https://img.shields.io/badge/ClearML-333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NVIDIA%20Triton-333?style=for-the-badge&logo=nvidia"/>
+  <img src="https://img.shields.io/badge/NVIDIA%20DALI-333?style=for-the-badge&logo=nvidia"/>
+</p>
+
+### Data, Analytics & ML
+<p>
+  <img src="https://img.shields.io/badge/SQL-333?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/Pandas-333?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/scikit--learn-333?style=for-the-badge&logo=scikit-learn"/>
+  <img src="https://img.shields.io/badge/Plotly-333?style=for-the-badge&logo=plotly"/>
+  <img src="https://img.shields.io/badge/MATLAB-333?style=for-the-badge"/>
+</p>
+
+---
+
+## Selected Projects
 
 | Project | Description | Stack |
 |-------|------------|------|
-| 🪨 **Multi-class Image Classification** | High-accuracy visual classification system | `PyTorch`, `YOLO`, `CVAT` |
-| 🧠 **LLM-driven Vision Pipeline** | Vision tools orchestrated via LLM-based logic and function calling | `LLM`, `Vision`, `FastAPI` |
-| ⚙️ **AI Inference Service** | Scalable service for image & video inference | `Docker`, `REST`, `gRPC` |
-| 📊 **ML Modeling & Analysis** | Classical ML pipelines and feature analysis | `scikit-learn`, `Pandas` |
+| **Multi-class Image Classification** | High-accuracy image classification system | `PyTorch`, `YOLO`, `CVAT` |
+| **LLM-driven Vision Pipeline** | Vision tools orchestrated via LLM-based reasoning | `LangChain`, `FastAPI`, `Vision` |
+| **AI Inference Service** | Scalable service for image and video inference | `Docker`, `REST`, `gRPC` |
+| **ML Modeling & Analytics** | Feature analysis and classical ML pipelines | `scikit-learn`, `Pandas` |
 
-> *Project descriptions are intentionally generalized.*
+> *Project descriptions are intentionally generalized to comply with NDA requirements.*
 
 ---
 
+## Connect with Me
 
-## 📬 Contacts
-
-- 📧 Email: [kz_mail_xx@mail.ru](mailto:kz_mail_xx@mail.ru)  
-- 💼 LinkedIn: [Isabek Altynbek](https://www.linkedin.com/in/isabek-altynbek-053729271/)  
-- 💬 Telegram: [@altynbekov_17](https://t.me/altynbekov_17)
+- Telegram: **@kolesnokov__dima**
+- LinkedIn: [Isabek Altynbek](https://www.linkedin.com/in/isabek-altynbek-053729271/)
+- Email: [kz_mail_xx@mail.ru](mailto:kz_mail_xx@mail.ru)
 
 ---
 
 <p align="center">
-  <i>Applied Computer Vision & LLM-integrated AI systems.  
-  Focused on real-world deployment and scalable solutions.</i>
+  <i>Applied Computer Vision · LLM-integrated AI systems · Production-ready solutions</i>
 </p>
