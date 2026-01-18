@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Isabek 👋</h1>
 
 <p align="center">
-  <b>Computer Vision Engineer</b> | <i>Deep Learning · Applied AI · Intelligent Systems</i>  
+  <b>Computer Vision Engineer</b> | <i>Deep Learning · LLM-integrated AI Systems</i>  
 </p>
 
 <p align="center">
@@ -24,20 +24,16 @@
 
 ## 🧠 About Me
 
-Hi! I’m **Isabek**, a **Computer Vision Engineer** focused on building  
-**robust, production-ready AI systems**.
+Hi! I’m **Isabek**, a **Computer Vision Engineer** working on  
+**production-oriented AI systems that combine vision, deep learning, and LLM-based reasoning**.
 
-I work across the full ML lifecycle:
-- data preparation & dataset curation  
-- training and optimization of deep learning models  
-- deployment and integration into real-world systems  
+I design **end-to-end AI pipelines**:
+- dataset preparation and annotation workflows  
+- training and optimization of CV models  
+- integration of **LLMs for decision-making, orchestration, and automation**  
+- deployment as scalable services  
 
-My main interests are:
-- **Computer Vision (detection, segmentation, classification)**
-- **Deep Learning with PyTorch**
-- **AI systems combined with reasoning and automation**
-
-I prefer **practical, applied AI** over purely academic solutions.
+My focus is on **applied AI**, where models are part of a larger system rather than standalone research.
 
 ---
 
@@ -50,25 +46,25 @@ I prefer **practical, applied AI** over purely academic solutions.
   <img src="https://img.shields.io/badge/-YOLO-333?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-OpenCV-333?style=for-the-badge&logo=opencv" />
   <img src="https://img.shields.io/badge/-Albumentations-333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Image%20Segmentation-333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Object%20Detection-333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Detection%20%2F%20Segmentation-333?style=for-the-badge" />
 </p>
 
-### 🧠 Intelligent & AI-driven Systems
+### 🧠 LLM & AI Reasoning
 <p>
+  <img src="https://img.shields.io/badge/-Large%20Language%20Models-333?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-LLM%20Integration-333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Vision--Language%20Models-333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-AI%20Pipelines-333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Decision%20Logic-333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Function%20Calling-333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-AI%20Agents-333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Vision--Language%20Pipelines-333?style=for-the-badge" />
 </p>
 
-### ⚙️ Data, Backend & Deployment
+### ⚙️ Backend, Data & Deployment
 <p>
   <img src="https://img.shields.io/badge/-FastAPI-333?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/-REST%20%2F%20gRPC-333?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/-CVAT-333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-REST%20%2F%20gRPC-333?style=for-the-badge" />
 </p>
 
 ---
@@ -77,12 +73,12 @@ I prefer **practical, applied AI** over purely academic solutions.
 
 | Project | Description | Stack |
 |-------|------------|------|
-| 🪨 **Image Classification System** | Multi-class image classification with high accuracy | `PyTorch`, `YOLO`, `CVAT` |
-| 🧠 **Vision Analysis Pipeline** | Modular CV pipeline for detection and segmentation tasks | `OpenCV`, `PyTorch`, `FastAPI` |
-| 📡 **Real-time Inference Service** | AI service for real-time image & video processing | `Docker`, `REST`, `gRPC` |
-| 📊 **Data Analysis & Modeling** | Feature analysis and ML modeling for structured datasets | `Pandas`, `scikit-learn` |
+| 🪨 **Multi-class Image Classification** | High-accuracy visual classification system | `PyTorch`, `YOLO`, `CVAT` |
+| 🧠 **LLM-driven Vision Pipeline** | Vision tools orchestrated via LLM-based logic and function calling | `LLM`, `Vision`, `FastAPI` |
+| ⚙️ **AI Inference Service** | Scalable service for image & video inference | `Docker`, `REST`, `gRPC` |
+| 📊 **ML Modeling & Analysis** | Classical ML pipelines and feature analysis | `scikit-learn`, `Pandas` |
 
-> *Project descriptions are generalized to respect NDA requirements.*
+> *Project descriptions are intentionally generalized.*
 
 ---
 
@@ -104,6 +100,6 @@ I prefer **practical, applied AI** over purely academic solutions.
 ---
 
 <p align="center">
-  <i>Focused on applied Computer Vision and real-world AI systems.  
-  Open to challenging engineering problems and strong teams.</i>
+  <i>Applied Computer Vision & LLM-integrated AI systems.  
+  Focused on real-world deployment and scalable solutions.</i>
 </p>
