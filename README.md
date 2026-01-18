@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Isabek 👋</h1>
 
 <p align="center">
-  <b>Machine Learning Engineer</b> | <i>Deep Learning & Computer Vision Enthusiast</i>  
+  <b>Computer Vision Engineer</b> | <i>Deep Learning · Applied AI · Intelligent Systems</i>  
 </p>
 
 <p align="center">
@@ -22,61 +22,71 @@
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-Hi! I’m **Isabek**, a Machine Learning Engineer passionate about **Deep Learning** and **Computer Vision**.  
-I enjoy working on projects that cover the full cycle — from **data collection and analysis** to **model training and production deployment**.  
-I’m confident with both **classical ML approaches** and **modern neural architectures**.
+Hi! I’m **Isabek**, a **Computer Vision Engineer** focused on building  
+**robust, production-ready AI systems**.
+
+I work across the full ML lifecycle:
+- data preparation & dataset curation  
+- training and optimization of deep learning models  
+- deployment and integration into real-world systems  
+
+My main interests are:
+- **Computer Vision (detection, segmentation, classification)**
+- **Deep Learning with PyTorch**
+- **AI systems combined with reasoning and automation**
+
+I prefer **practical, applied AI** over purely academic solutions.
 
 ---
 
-### 🚀 Technologies & Tools
+## 🚀 Core Skills
 
-#### 🤖 Machine Learning / Deep Learning
+### 🤖 Computer Vision & Deep Learning
 <p>
   <img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python&logoColor=yellow" />
   <img src="https://img.shields.io/badge/-PyTorch-333?style=for-the-badge&logo=pytorch&logoColor=ee4c2c" />
-  <img src="https://img.shields.io/badge/-scikit--learn-333?style=for-the-badge&logo=scikit-learn&logoColor=f7931e" />
-  <img src="https://img.shields.io/badge/-XGBoost-333?style=for-the-badge&logo=xgboost" />
-  <img src="https://img.shields.io/badge/-LightGBM-333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-CatBoost-333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Albumentations-333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-YOLO-333?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-OpenCV-333?style=for-the-badge&logo=opencv" />
+  <img src="https://img.shields.io/badge/-Albumentations-333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Image%20Segmentation-333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Object%20Detection-333?style=for-the-badge" />
 </p>
 
-#### 📊 Data Analysis & Visualization
+### 🧠 Intelligent & AI-driven Systems
 <p>
-  <img src="https://img.shields.io/badge/-Pandas-333?style=for-the-badge&logo=pandas" />
-  <img src="https://img.shields.io/badge/-NumPy-333?style=for-the-badge&logo=numpy" />
-  <img src="https://img.shields.io/badge/-Matplotlib-333?style=for-the-badge&logo=matplotlib" />
-  <img src="https://img.shields.io/badge/-Seaborn-333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-PowerBI-333?style=for-the-badge&logo=powerbi" />
+  <img src="https://img.shields.io/badge/-LLM%20Integration-333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Vision--Language%20Models-333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-AI%20Pipelines-333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Decision%20Logic-333?style=for-the-badge" />
 </p>
 
-#### ⚙️ Development & Deployment
+### ⚙️ Data, Backend & Deployment
 <p>
-  <img src="https://img.shields.io/badge/-Jupyter-333?style=for-the-badge&logo=jupyter&logoColor=orange" />
   <img src="https://img.shields.io/badge/-FastAPI-333?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/-Airflow-333?style=for-the-badge&logo=apache-airflow" />
-  <img src="https://img.shields.io/badge/-TensorBoard-333?style=for-the-badge&logo=tensorflow&logoColor=orange" />
+  <img src="https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/-CVAT-333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-REST%20%2F%20gRPC-333?style=for-the-badge" />
 </p>
 
 ---
 
-### 📌 Projects
+## 📌 Selected Projects
 
-| Project Name | Description | Technologies |
-|---------------|-------------|---------------|
-| 🏠 [Boston Housing](https://github.com/Isabek96/Boston-Housing) | Linear regression model for predicting housing prices in Boston | `Python`, `Pandas`, `scikit-learn`, `Matplotlib` |
-| 👥 [Customer Personality Analysis](https://github.com/Isabek96/Customer-Personality-Analysis) | EDA and customer clustering based on purchasing behavior | `Python`, `EDA`, `KMeans`, `Seaborn` |
-| 🏢 [Real Estate Prices in Tashkent](https://github.com/Isabek96/Real-estate-prices-in-Tashkent-Uzbekistan) | Analysis and visualization of real estate prices in Tashkent | `Pandas`, `Matplotlib`, `Seaborn` |
-| 📚 [Student Performance: Multiple Regression](https://github.com/Isabek96/Student-Performance-Multiple-Linear-Regression-) | Prediction of student performance using multiple regression | `Regression`, `scikit-learn`, `EDA` |
+| Project | Description | Stack |
+|-------|------------|------|
+| 🪨 **Image Classification System** | Multi-class image classification with high accuracy | `PyTorch`, `YOLO`, `CVAT` |
+| 🧠 **Vision Analysis Pipeline** | Modular CV pipeline for detection and segmentation tasks | `OpenCV`, `PyTorch`, `FastAPI` |
+| 📡 **Real-time Inference Service** | AI service for real-time image & video processing | `Docker`, `REST`, `gRPC` |
+| 📊 **Data Analysis & Modeling** | Feature analysis and ML modeling for structured datasets | `Pandas`, `scikit-learn` |
+
+> *Project descriptions are generalized to respect NDA requirements.*
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Isabek96&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
@@ -85,7 +95,7 @@ I’m confident with both **classical ML approaches** and **modern neural archit
 
 ---
 
-### 📬 Contacts
+## 📬 Contacts
 
 - 📧 Email: [kz_mail_xx@mail.ru](mailto:kz_mail_xx@mail.ru)  
 - 💼 LinkedIn: [Isabek Altynbek](https://www.linkedin.com/in/isabek-altynbek-053729271/)  
@@ -94,5 +104,6 @@ I’m confident with both **classical ML approaches** and **modern neural archit
 ---
 
 <p align="center">
-  🔍 <i>Thanks for visiting! Feel free to explore my projects, connect, or drop a message — I’m always open to collaboration and new opportunities.</i>
+  <i>Focused on applied Computer Vision and real-world AI systems.  
+  Open to challenging engineering problems and strong teams.</i>
 </p>
