@@ -82,14 +82,6 @@ My focus is on **applied AI**, where models are part of a larger system rather t
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isabek96&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabek96&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</div>
-
----
 
 ## 📬 Contacts
 
