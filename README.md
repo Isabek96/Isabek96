@@ -1,106 +1,177 @@
-<h1 align="center">Hi there, I'm Isabek </h1>
+Hi there, I’m Isabek Altynbek 👋
 
-<p align="center">
-  <b>Computer Vision Engineer</b> | <i>Deep Learning · LLM-integrated AI Systems · MLOps</i>
-</p>
+Computer Vision Engineer | ML Engineer | Real-Time AI Systems
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/isabek-altynbek-053729271/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:kz_mail_xx@mail.ru">
-    <img src="https://img.shields.io/badge/Email-grey?style=flat&logo=gmail" />
-  </a>
-  <a href="https://t.me/kolesnokov__dima">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram" />
-  </a>
-  <br>
-  <a href="https://www.codewars.com/users/Issabek" target="_blank">
-    <img src="https://www.codewars.com/users/Issabek/badges/large" alt="Codewars Badge" />
-  </a>
-</p>
+I develop end-to-end AI systems combining Computer Vision, Deep Learning, MLOps, and LLM-powered decision making.
 
----
+My primary focus is building production-ready AI solutions that process video streams in real time, analyze visual data, and support autonomous decision-making systems.
 
-## About Me
+⸻
 
-I’m **Isabek**, a **Computer Vision Engineer** focused on building  
-**production-ready AI systems** that combine **computer vision, deep learning, and LLM-based reasoning**.
+About Me
 
-I work across the full ML lifecycle:
-- data preparation, annotation workflows, and dataset curation  
-- training and optimization of CV models  
-- integration of **LLMs for orchestration, reasoning, and automation**  
-- deployment and monitoring of scalable AI services  
+Computer Vision / ML Engineer with experience in developing and deploying AI solutions for:
 
-My primary interest lies in **applied AI**, where models operate as part of reliable, real-world systems.
+* Real-time video analytics
+* Object detection and tracking
+* Image segmentation
+* Autonomous navigation systems
+* Energy forecasting and analytics
+* Industrial computer vision applications
 
----
+I cover the full ML lifecycle:
 
-## Core Skills
+* Data collection and annotation (CVAT)
+* Dataset preparation and augmentation
+* Model training and optimization
+* Inference acceleration
+* API development
+* Deployment and monitoring
+* MLOps and production support
 
-### Computer Vision & Deep Learning
-<p>
-  <img src="https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/PyTorch-333?style=for-the-badge&logo=pytorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-333?style=for-the-badge&logo=tensorflow"/>
-  <img src="https://img.shields.io/badge/OpenCV-333?style=for-the-badge&logo=opencv"/>
-  <img src="https://img.shields.io/badge/Ultralytics%20YOLO-333?style=for-the-badge"/>
-</p>
+My goal is not simply to train models but to build reliable AI systems that operate effectively in real-world environments.
 
-### LLM & AI Pipelines
-<p>
-  <img src="https://img.shields.io/badge/LangChain-333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLM%20Integration-333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Function%20Calling-333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vision--Language%20Pipelines-333?style=for-the-badge"/>
-</p>
+⸻
 
-### Backend, MLOps & Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-333?style=for-the-badge&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/Streamlit-333?style=for-the-badge&logo=streamlit"/>
-  <img src="https://img.shields.io/badge/Docker-333?style=for-the-badge&logo=docker"/>
-  <img src="https://img.shields.io/badge/Git-333?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-333?style=for-the-badge&logo=apache-airflow"/>
-  <img src="https://img.shields.io/badge/Grafana-333?style=for-the-badge&logo=grafana"/>
-  <img src="https://img.shields.io/badge/ClearML-333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NVIDIA%20Triton-333?style=for-the-badge&logo=nvidia"/>
-  <img src="https://img.shields.io/badge/NVIDIA%20DALI-333?style=for-the-badge&logo=nvidia"/>
-</p>
+Technical Stack
 
-### Data, Analytics & ML
-<p>
-  <img src="https://img.shields.io/badge/SQL-333?style=for-the-badge&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/Pandas-333?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/scikit--learn-333?style=for-the-badge&logo=scikit-learn"/>
-  <img src="https://img.shields.io/badge/Plotly-333?style=for-the-badge&logo=plotly"/>
-  <img src="https://img.shields.io/badge/MATLAB-333?style=for-the-badge"/>
-</p>
+Computer Vision
 
----
+* Python
+* PyTorch
+* OpenCV
+* Ultralytics YOLO
+* DeepSORT
+* Image Segmentation
+* Object Detection
+* Video Analytics
+* Real-Time Video Processing
 
-## Selected Projects
+AI & Deep Learning
 
-| Project | Description | Stack |
-|-------|------------|------|
-| **Multi-class Image Classification** | High-accuracy image classification system | `PyTorch`, `YOLO`, `CVAT` |
-| **LLM-driven Vision Pipeline** | Vision tools orchestrated via LLM-based reasoning | `LangChain`, `FastAPI`, `Vision` |
-| **AI Inference Service** | Scalable service for image and video inference | `Docker`, `REST`, `gRPC` |
-| **ML Modeling & Analytics** | Feature analysis and classical ML pipelines | `scikit-learn`, `Pandas` |
+* Deep Learning
+* Computer Vision
+* LLM Integration
+* Vision-Language Models (VLM)
+* Prompt Engineering
+* Multimodal AI Systems
+* AI Agents
 
-> *Project descriptions are intentionally generalized to comply with NDA requirements.*
+MLOps & Infrastructure
 
----
+* Docker
+* MLflow
+* FastAPI
+* REST API
+* gRPC
+* Airflow
+* Git
+* Linux
+* Redis
+* PostgreSQL
 
-## Connect with Me
+Data Science
 
-- Telegram: **@kolesnokov__dima**
-- LinkedIn: [Isabek Altynbek](https://www.linkedin.com/in/isabek-altynbek-053729271/)
-- Email: [kz_mail_xx@mail.ru](mailto:kz_mail_xx@mail.ru)
+* Pandas
+* NumPy
+* Scikit-Learn
+* Feature Engineering
+* EDA
+⸻
 
----
+Featured Projects
 
-<p align="center">
-  <i>Applied Computer Vision · LLM-integrated AI systems · Production-ready solutions</i>
-</p>
+Autonomous Drone AI System
+
+Production-oriented autonomous drone platform combining:
+
+* YOLOv11
+* DeepSORT
+* OpenVINS
+* GPT-4 / Qwen
+* Real-time video processing
+
+Achievements
+
+* Real-time inference (~20 FPS)
+* Low latency video pipeline (~30 ms)
+* Object detection recall up to 92%
+* Dynamic route planning using CV + LLM integration
+
+⸻
+
+Geological Core Segmentation
+
+Computer vision system for geological core analysis.
+
+Achievements
+
+* Dataset annotation in CVAT
+* Instance segmentation pipeline
+* YOLOv11 training and optimization
+* Precision: 91%
+* Recall: 92%
+* mAP@50: 85%
+
+⸻
+
+Solar Panel Defect Detection
+
+AI solution for automatic detection of:
+
+* Dust contamination
+* Snow coverage
+* Surface damage
+
+Results
+
+* Detection accuracy above 90%
+* Automatic power-loss estimation
+* End-to-end analysis pipeline
+
+⸻
+
+Energy Generation Forecasting
+
+Machine learning system for renewable energy forecasting.
+
+Models
+
+* Random Forest
+* XGBoost
+* Ridge Regression
+
+Results
+
+* R² = 0.9997
+* MAE = 1.09
+* RMSE = 1.81
+
+⸻
+
+Current Interests
+
+* Computer Vision
+* Real-Time AI Systems
+* Autonomous Robotics
+* Edge AI
+* Video Analytics
+* AI Infrastructure
+* Multimodal AI
+* Production ML Systems
+
+⸻
+
+Connect
+
+📧 altynbekisabek@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/isabek-altynbek-053729271/
+
+💬 Telegram:
+@isabek_altynbek
+
+⸻
+
+Building AI systems that work in production, not only in notebooks.
