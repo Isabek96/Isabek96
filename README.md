@@ -167,11 +167,9 @@ Connect
 📧 altynbekisabek@gmail.com
 
 💼 LinkedIn:
-https://www.linkedin.com/in/isabek-altynbek-053729271/
+https://www.linkedin.com/in/isabek-altynbek/
 
 💬 Telegram:
 @isabek_altynbek
-
-⸻
 
 Building AI systems that work in production, not only in notebooks.
